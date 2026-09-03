@@ -1,0 +1,93 @@
+WEBSITE ACCESSIBILITY TESTING CHECKLIST
+=======================================
+
+KEYBOARD NAVIGATION
+-------------------
+
+[ ] Verify all interactive elements can be accessed using the keyboard.
+
+[ ] Verify Tab key moves through interactive elements in a logical order.
+
+[ ] Verify Shift + Tab moves backward through interactive elements.
+
+[ ] Verify buttons can be operated using the keyboard.
+
+[ ] Verify links can be accessed using the keyboard.
+
+[ ] Verify dropdown menus can be operated using the keyboard where applicable.
+
+[ ] Verify keyboard focus is clearly visible.
+
+
+FORMS
+-----
+
+[ ] Verify every input field has an appropriate label.
+
+[ ] Verify required fields are clearly identified.
+
+[ ] Verify keyboard users can reach all form controls.
+
+[ ] Verify validation messages are clearly visible.
+
+[ ] Verify error messages identify the affected field.
+
+[ ] Verify form controls have meaningful names.
+
+
+IMAGES
+------
+
+[ ] Verify informative images have appropriate alternative text.
+
+[ ] Verify decorative images do not create unnecessary confusion.
+
+[ ] Verify important visual information has an accessible alternative.
+
+
+CONTENT
+-------
+
+[ ] Verify headings are logically organized.
+
+[ ] Verify text is readable.
+
+[ ] Verify links have meaningful text.
+
+[ ] Verify important content is not communicated through color alone.
+
+[ ] Verify page content follows a logical reading order.
+
+
+NAVIGATION
+----------
+
+[ ] Verify navigation can be completed using the keyboard.
+
+[ ] Verify navigation elements are clearly identifiable.
+
+[ ] Verify focus moves in a logical sequence.
+
+[ ] Verify users can identify the current page or section where applicable.
+
+
+GENERAL ACCESSIBILITY
+---------------------
+
+[ ] Verify interactive elements have clear labels.
+
+[ ] Verify focus is not lost unexpectedly.
+
+[ ] Verify error messages are understandable.
+
+[ ] Verify dynamic content provides appropriate feedback.
+
+[ ] Verify the website remains usable without relying only on a mouse.
+
+
+TESTING NOTE
+------------
+
+This checklist is intended for QA practice and educational purposes.
+Actual accessibility compliance should be verified using appropriate
+accessibility standards and tools.
