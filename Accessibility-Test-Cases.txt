@@ -1,0 +1,177 @@
+ACCESSIBILITY TEST CASES
+========================
+
+TC001
+Test Case:
+Verify navigation using the Tab key.
+
+Steps:
+1. Open the webpage.
+2. Press the Tab key repeatedly.
+3. Observe the focus movement.
+
+Expected Result:
+Focus should move through interactive elements in a logical order.
+
+
+--------------------------------
+
+
+TC002
+Test Case:
+Verify visible keyboard focus.
+
+Steps:
+1. Open the webpage.
+2. Navigate using the Tab key.
+3. Observe the focused element.
+
+Expected Result:
+The currently focused element should be clearly visible.
+
+
+--------------------------------
+
+
+TC003
+Test Case:
+Verify keyboard access to buttons.
+
+Steps:
+1. Navigate to a button using the keyboard.
+2. Activate the button using the supported keyboard action.
+
+Expected Result:
+The button should be accessible and perform its intended action.
+
+
+--------------------------------
+
+
+TC004
+Test Case:
+Verify keyboard access to links.
+
+Expected Result:
+Links should be reachable and usable through keyboard navigation.
+
+
+--------------------------------
+
+
+TC005
+Test Case:
+Verify form field labels.
+
+Expected Result:
+Each form input should have a clear and meaningful label.
+
+
+--------------------------------
+
+
+TC006
+Test Case:
+Verify required field identification.
+
+Expected Result:
+Required fields should be clearly identified for the user.
+
+
+--------------------------------
+
+
+TC007
+Test Case:
+Verify form error messages.
+
+Expected Result:
+Validation errors should be clearly visible and understandable.
+
+
+--------------------------------
+
+
+TC008
+Test Case:
+Verify image alternative text.
+
+Expected Result:
+Informative images should provide appropriate alternative text.
+
+
+--------------------------------
+
+
+TC009
+Test Case:
+Verify heading structure.
+
+Expected Result:
+Headings should follow a logical hierarchy and organize page content.
+
+
+--------------------------------
+
+
+TC010
+Test Case:
+Verify meaningful link text.
+
+Expected Result:
+Link text should clearly communicate the destination or action.
+
+
+--------------------------------
+
+
+TC011
+Test Case:
+Verify content does not depend only on color.
+
+Expected Result:
+Important information should not be communicated through color alone.
+
+
+--------------------------------
+
+
+TC012
+Test Case:
+Verify logical tab order.
+
+Expected Result:
+Keyboard focus should follow a logical sequence through the page.
+
+
+--------------------------------
+
+
+TC013
+Test Case:
+Verify keyboard accessibility without mouse.
+
+Expected Result:
+Important interactive functionality should remain usable without relying only on a mouse.
+
+
+--------------------------------
+
+
+TC014
+Test Case:
+Verify focus after an interaction.
+
+Expected Result:
+Keyboard focus should remain predictable after completing an interaction.
+
+
+--------------------------------
+
+
+TC015
+Test Case:
+Verify overall accessibility.
+
+Expected Result:
+The main website functionality should be usable through accessible interaction methods.
