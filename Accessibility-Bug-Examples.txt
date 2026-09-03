@@ -1,0 +1,107 @@
+ACCESSIBILITY BUG REPORT EXAMPLES
+=================================
+
+
+BUG-001
+
+Bug Title:
+Keyboard focus is not clearly visible
+
+Severity:
+Medium
+
+Priority:
+High
+
+Module:
+Navigation
+
+Expected Result:
+The currently focused element should have a clearly visible focus indicator.
+
+Actual Result:
+Keyboard focus may not be clearly visible.
+
+Status:
+Sample / To Be Verified
+
+
+--------------------------------
+
+
+BUG-002
+
+Bug Title:
+Form input does not have a meaningful label
+
+Severity:
+Medium
+
+Priority:
+Medium
+
+Module:
+Registration Form
+
+Expected Result:
+Each input field should have a clear and meaningful label.
+
+Actual Result:
+An input field may not have an appropriate visible or programmatic label.
+
+Status:
+Sample / To Be Verified
+
+
+--------------------------------
+
+
+BUG-003
+
+Bug Title:
+Informative image missing alternative text
+
+Severity:
+Medium
+
+Priority:
+Medium
+
+Module:
+Content / Images
+
+Expected Result:
+Informative images should have appropriate alternative text.
+
+Actual Result:
+An informative image may not provide alternative text.
+
+Status:
+Sample / To Be Verified
+
+
+--------------------------------
+
+
+BUG-004
+
+Bug Title:
+Keyboard navigation follows an unexpected order
+
+Severity:
+Medium
+
+Priority:
+High
+
+Module:
+Navigation
+
+Expected Result:
+Keyboard focus should follow a logical sequence.
+
+Actual Result:
+Focus may move to elements in an unexpected order.
+
+Status:
+Sample / To Be Verified
