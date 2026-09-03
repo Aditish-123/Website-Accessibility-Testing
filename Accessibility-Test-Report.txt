@@ -1,0 +1,54 @@
+ACCESSIBILITY TEST REPORT
+=========================
+
+Project Name:
+Website Accessibility Testing
+
+Testing Type:
+Manual Accessibility Testing
+
+Testing Approach:
+Keyboard-based testing and manual UI inspection.
+
+Testing Areas:
+
+1. Keyboard Navigation
+2. Forms
+3. Images
+4. Navigation
+5. Headings
+6. Links
+7. Error Messages
+8. Focus Management
+
+Total Test Cases:
+15
+
+Tools Used:
+
+- Google Chrome
+- Chrome DevTools
+- Keyboard
+- GitHub
+
+Expected Outcome:
+
+The website should provide a usable experience through keyboard
+navigation and should present important content and controls in
+an accessible manner.
+
+Test Documentation:
+
+- Accessibility Checklist
+- Accessibility Test Cases
+- Sample Accessibility Bug Reports
+
+Final Status:
+
+Practice Test Documentation Completed
+
+Note:
+
+This is an educational QA practice project. Sample defects should
+be verified against an actual application before being considered
+real defects.
